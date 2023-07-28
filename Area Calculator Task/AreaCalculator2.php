@@ -1,7 +1,7 @@
 <?php
 
 // Here I thought to separate the function of calculating area from defining the shape properties
-// to be extendable to make new functions like calculating perimeter without needing to modify the shape class
+// to be extendable to make new functions like calculating perimeter without needing to modify the shape class.
 
 
 // ShapeProperties interface 
